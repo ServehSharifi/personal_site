@@ -5,5 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Teaching"
+      href: Teaching.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
