@@ -16,13 +16,13 @@ $~$
 
 $~$
 
-- __Sharifi Far, S.__, King, R., Bird, S., Overstall, A., Worthington, H., and Jewell, N., (2020), _Multiple Systems Estimation for Modern Slavery: Robustness of List Omission and Combination_, Crime and Delinquency. [link](https://journals.sagepub.com/doi/full/10.1177/0011128720951429)
+- __Sharifi Far, S.__, King, R., Bird, S., Overstall, A., Worthington, H., and Jewell, N., (2020), _Multiple Systems Estimation for Modern Slavery: Robustness of List Omission and Combination_, Crime and Delinquency, DOI: 10.1177/0011128720951429.  [link](https://journals.sagepub.com/doi/full/10.1177/0011128720951429)
 
 
 
 $~$
 
-- __Sharifi Far, S.__, Papathomas, M., and King, R., (2019), _Parameter redundancy and the existence of maximum likelihood estimates in log-linear models_, Statistica Sinica.  [link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0100_na.pdf)
+- __Sharifi Far, S.__, Papathomas, M., and King, R., (2019), _Parameter redundancy and the existence of maximum likelihood estimates in log-linear models_, Statistica Sinica, DOI: 10.5705/ss.202018.0100.  [link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0100_na.pdf)
 
 $~$
 
