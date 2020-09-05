@@ -1,7 +1,7 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Serveh Sharifi"
   left:
     - text: "Home"
       href: index.html
@@ -11,5 +11,5 @@ navbar:
       href: Teaching.html
 output:
   html_document:
-    theme: flatly
+    theme: sandstone
     css: style.css
