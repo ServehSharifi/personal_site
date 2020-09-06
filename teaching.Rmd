@@ -1,0 +1,28 @@
+---
+title: "Teaching"
+author: 
+date: 
+output: html_document
+---
+
+$~$
+
+### Some of the courses I have organised:
+
+$~$
+
+- Applied Statistics (2018-19) 
+
+This course discusses some of the non-parametric statistical methods and provides an introduction on data visualisation. The course was nominated by students for two teaching awards,  __Best Overall Teacher__, and __Best Course__. 
+
+$~$
+
+- Statistics (2019-20) 
+
+A first course on statistics including several basic and prominent statistical methods. 
+
+$~$
+
+- Statistical Methodology (2020-21) 
+
+This is a hybrid course covering many of the main concepts of the likelihood-based statistics. The course consists of pre-recorded lecture videos, demonestrations on RStudio Cloud, digital quizzes and assessments, hybrid workshops, digital synchronous and asynchronous support. 
