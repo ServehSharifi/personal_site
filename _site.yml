@@ -6,9 +6,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Publications"
-      href: Publications.html
+      href: publications.html
     - text: "Teaching"
-      href: Teaching.html
+      href: teaching.html
 output:
   html_document:
     theme: sandstone

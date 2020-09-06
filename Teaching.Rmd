@@ -4,7 +4,6 @@ author:
 date: 
 output: html_document
 ---
-
 $~$
 
 ### Some of the courses I have organised:
