@@ -19,7 +19,8 @@ $~$
 
 - Statistics (2019-20) 
 
-A first course on statistics including several basic and prominent statistical methods. 
+This is a  first course on Statistics that provides an introduction to the basic concepts of Statistics. The underlying rigorous mathematical framework for several basic and prominent statistical methods are covered. 
+
 
 $~$
 
