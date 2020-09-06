@@ -1,9 +1,10 @@
 ---
-title: "Teaching"
+title: "teaching"
 author: 
 date: 
 output: html_document
 ---
+
 $~$
 
 ### Some of the courses I have organised:
