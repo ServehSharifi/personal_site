@@ -7,9 +7,7 @@ output: html_document
 
 I joined the School of Mathematics at the University of Edinburgh as a University Teacher in Statistics in September 2017. Previously, I completed my PhD in Statistics at the University of St Andrews, working on identifiability and parameter redundancy of log-linear models fitted to sparse contingency tables.
 
-
 $~$
-
 
 ![](pic.jpg)
 
@@ -44,6 +42,7 @@ University of Edinburgh
 Address: Office 5313 - School of Mathematics - 
 James Clerk Maxwell Building - 
 King's Building Campus - 
+University of Edinburgh - 
 EH9 3JZ
 
 Email: serveh.sharifi@ed.ac.uk

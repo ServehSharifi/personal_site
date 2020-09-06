@@ -13,7 +13,7 @@ $~$
 
 $~$
   
-- Comments on paper "Multiple Systems Analysis for the quantification of Modern Slavery: Classical and Bayesian approaches (with Discussion), by Bernard W. Silverman, J. Roy. Stat. Soc. Ser A.  183, 691-736", __Sharifi Far, S.__, Papathomas, M., (2020). [link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
+- Comments on paper "Multiple Systems Analysis for the quantification of Modern Slavery: Classical and Bayesian approaches, by Bernard W. Silverman, J. Roy. Stat. Soc. Ser A.  183, 691-736", __Sharifi Far, S.__, Papathomas, M., (2020). [link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
 
 $~$
   
@@ -25,15 +25,17 @@ $~$
   
 - __Sharifi Far, S.__, Papathomas, M., and King, R., (2019), _Parameter redundancy and the existence of maximum likelihood estimates in log-linear models_, Statistica Sinica, DOI: 10.5705/ss.202018.0100.  [link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2018-0100_na.pdf)
 
+
+$~$
+       
+- __Sharifi Far, S.__, (2017), PhD thesis, _Parameter Redundancy in Log-linear Models_.
+
 $~$
   
   
 - Bevrani, H., and __Sharifi Far, S.__, (2015), _An Approximation to Binomial Distribution_, Journal of Statistical Theory and Practice, 9:2, 305–312.
 [link](https://www.tandfonline.com/doi/abs/10.1080/15598608.2014.892445?journalCode=ujsp20#.VKrb-ntSK-E)
        
-$~$
-       
-- __Sharifi Far, S.__, (2017), PhD thesis, _Parameter Redundancy in Log-linear Models_.
        
        
 $~$
