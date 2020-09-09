@@ -8,7 +8,7 @@ output: html_document
   
 $~$
   
-- Kyle, V., __Sharifi Far, S.__, and Papathomas, M., _Common Methodological Challenges Encountered with Multiple Systems Estimation Studies_, Submitted.
+- Kyle, V., __Sharifi Far, S.__, and Papathomas, M., (2020), _Common Methodological Challenges Encountered with Multiple Systems Estimation Studies_, Submitted.
 
 $~$
   
@@ -37,9 +37,7 @@ $~$
        
        
        
-$~$
-         
-- __Sharifi Far, S.__, (2011), MSc dissertation, _The Pearson System and the Product Pearson-type VII Density Function_. 
+
        
        
        
