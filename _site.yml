@@ -11,5 +11,5 @@ navbar:
       href: teaching_.html
 output:
   html_document:
-    theme: sandstone
+    theme: flatly
     css: style.css
