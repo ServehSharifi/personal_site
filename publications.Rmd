@@ -8,15 +8,15 @@ output: html_document
   
 $~$
   
-- Kyle, V., __Sharifi Far, S.__, and Papathomas, M. (2020), _Common Methodological Challenges Encountered with Multiple Systems Estimation Studies_, Submitted.
+- Vincent, K. S., __Sharifi Far, S.__, and Papathomas, M. (2020), _Common Methodological Challenges Encountered with Multiple Systems Estimation Studies_, Crime & Delinquency, DOI: 10.1177/0011128720981900. [link](https://journals.sagepub.com/doi/10.1177/0011128720981900)
+
+$~$
+  
+- __Sharifi Far, S.__, King, R., Bird, S., Overstall, A., Worthington, H., and Jewell, N. (2020), _Multiple Systems Estimation for Modern Slavery: Robustness of List Omission and Combination_, Crime and Delinquency, DOI: 10.1177/0011128720951429.  [link](https://journals.sagepub.com/doi/10.1177/0011128720951429)
 
 $~$
   
 - Discussion to "Multiple Systems Analysis for the quantification of Modern Slavery: Classical and Bayesian approaches, Bernard W. Silverman, J. Roy. Stat. Soc. Ser A.  183, 691-736", __Sharifi Far, S.__, Papathomas, M. (2020), 731. [link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
-
-$~$
-  
-- __Sharifi Far, S.__, King, R., Bird, S., Overstall, A., Worthington, H., and Jewell, N. (2020), _Multiple Systems Estimation for Modern Slavery: Robustness of List Omission and Combination_, Crime and Delinquency, DOI: 10.1177/0011128720951429.  [link](https://journals.sagepub.com/doi/full/10.1177/0011128720951429)
 
 
 

@@ -4,6 +4,9 @@ author:
 date: 
 output: html_document
 ---
+$~$
+
+I am a __Fellow of the Higher Education Adacemy__, committed to professionalism in learning and teaching in higher education. [Higher Education Academy](https://www.advance-he.ac.uk/)
 
 $~$
 
