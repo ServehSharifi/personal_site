@@ -6,9 +6,9 @@ output: html_document
 ---
 $~$
 
-I am a __Fellow of the Higher Education Academy__, committed to professionalism in learning and teaching in higher education. 
+I am a Fellow of __[The Higher Education Academy](https://www.advance-he.ac.uk/)__, committed to professionalism in learning and teaching in higher education.  ![](FHEA.png){width=4cm}
 
-[Higher Education Academy](https://www.advance-he.ac.uk/) ![](FHEA.png){width=3cm}
+
 
 $~$
 
@@ -32,4 +32,5 @@ $~$
 - Statistical Methodology (2020-21) 
 
 This is a hybrid course covering many of the main concepts of the likelihood-based statistics. The course consists of pre-recorded lecture videos, demonstrations  on RStudio Cloud, digital quizzes and assessments, hybrid workshops, digital synchronous and asynchronous support. [Course Catalogue](http://www.drps.ed.ac.uk/20-21/dpt/cxmath10095.htm)
+
 
