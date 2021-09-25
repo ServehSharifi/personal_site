@@ -6,7 +6,7 @@ output: html_document
 ---
 $~$
 
-I am a Fellow of __[The Higher Education Academy](https://www.advance-he.ac.uk/)__, committed to professionalism in learning and teaching in higher education.  ![](FHEA.png){width=4cm}
+I am a Fellow of the __[ Higher Education Academy](https://www.advance-he.ac.uk/)__, committed to professionalism in learning and teaching in higher education.  ![](FHEA.png){width=4cm}
 
 
 
