@@ -34,3 +34,4 @@ $~$
 This is a hybrid course covering many of the main concepts of the likelihood-based statistics. The course consists of pre-recorded lecture videos, demonstrations  on RStudio Cloud, digital quizzes and assessments, hybrid workshops, digital synchronous and asynchronous support. [Course Catalogue](http://www.drps.ed.ac.uk/20-21/dpt/cxmath10095.htm)
 
 
+
