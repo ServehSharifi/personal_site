@@ -1,0 +1,6 @@
+Run:
+rmarkdown::render_site()
+
+Tick the modified pages and press commit
+
+Press Push
