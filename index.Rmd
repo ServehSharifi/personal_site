@@ -5,7 +5,9 @@ date:
 output: html_document
 ---
 
-I joined the School of Mathematics at the University of Edinburgh as a University Teacher in Statistics in September 2017. Previously, I completed my PhD in Statistics at the University of St Andrews, working on identifiability and parameter redundancy of log-linear models fitted to sparse contingency tables.
+I am a lecturer in Mathematical Data Science at the [School of Mathematics](https://www.maths.ed.ac.uk/) and [Edinburgh Futures Institute](https://efi.ed.ac.uk/) at the University of Edinburgh. I joined the School of Mathematics as a University Teacher in Statistics in September 2017. Previously, I completed my PhD in Statistics at the University of St Andrews, working on identifiability and parameter redundancy of log-linear models fitted to sparse contingency tables.
+
+![](pic.jpg)
 
 $~$
 
@@ -31,9 +33,9 @@ $~$
 
 ### Contact
 
-Dr. Serveh Sharifi Far FHEA
+Dr. Serveh Sharifi Far 
 
-University Teacher in Statistics
+Lecturer in Mathematical Data Science
 
 University of Edinburgh
 
