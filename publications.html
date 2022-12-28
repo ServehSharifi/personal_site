@@ -14,7 +14,8 @@
 
 <title>Publications</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -57,6 +58,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -81,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -138,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -171,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -180,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -264,33 +266,54 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">Publications</h1>
+<h4 class="author"></h4>
 
 </div>
 
 
 <p><span class="math inline">\(~\)</span></p>
 <ul>
-<li>Vincent, K. S., <strong>Sharifi Far, S.</strong>, and Papathomas, M. (2020), <em>Common Methodological Challenges Encountered with Multiple Systems Estimation Studies</em>, Crime &amp; Delinquency, DOI: 10.1177/0011128720981900. <a href="https://journals.sagepub.com/doi/10.1177/0011128720981900">link</a></li>
+<li>Vincent, K. S., <strong>Sharifi Far, S.</strong>, and Papathomas, M.
+(2020), <em>Common Methodological Challenges Encountered with Multiple
+Systems Estimation Studies</em>, Crime &amp; Delinquency, DOI:
+10.1177/0011128720981900. <a
+href="https://journals.sagepub.com/doi/10.1177/0011128720981900">link</a></li>
 </ul>
 <p><span class="math inline">\(~\)</span></p>
 <ul>
-<li><strong>Sharifi Far, S.</strong>, King, R., Bird, S., Overstall, A., Worthington, H., and Jewell, N. (2020), <em>Multiple Systems Estimation for Modern Slavery: Robustness of List Omission and Combination</em>, Crime and Delinquency, DOI: 10.1177/0011128720951429. <a href="https://journals.sagepub.com/doi/10.1177/0011128720951429">link</a></li>
+<li><strong>Sharifi Far, S.</strong>, King, R., Bird, S., Overstall, A.,
+Worthington, H., and Jewell, N. (2020), <em>Multiple Systems Estimation
+for Modern Slavery: Robustness of List Omission and Combination</em>,
+Crime and Delinquency, DOI: 10.1177/0011128720951429. <a
+href="https://journals.sagepub.com/doi/10.1177/0011128720951429">link</a></li>
 </ul>
 <p><span class="math inline">\(~\)</span></p>
 <ul>
-<li>Discussion to “Multiple Systems Analysis for the quantification of Modern Slavery: Classical and Bayesian approaches, Bernard W. Silverman, J. Roy. Stat. Soc. Ser A. 183, 691-736”, <strong>Sharifi Far, S.</strong>, Papathomas, M. (2020), 731. <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505">link</a></li>
+<li>Discussion to “Multiple Systems Analysis for the quantification of
+Modern Slavery: Classical and Bayesian approaches, Bernard W. Silverman,
+J. Roy. Stat. Soc. Ser A. 183, 691-736”, <strong>Sharifi Far,
+S.</strong>, Papathomas, M. (2020), 731. <a
+href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505">link</a></li>
 </ul>
 <p><span class="math inline">\(~\)</span></p>
 <ul>
-<li><strong>Sharifi Far, S.</strong>, Papathomas, M., and King, R. (2019), <em>Parameter redundancy and the existence of maximum likelihood estimates in log-linear models</em>, Statistica Sinica, DOI: 10.5705/ss.202018.0100. <a href="http://www3.stat.sinica.edu.tw/statistica/J31N3/J31N301/J31N301.html">link</a></li>
+<li><strong>Sharifi Far, S.</strong>, Papathomas, M., and King, R.
+(2019), <em>Parameter redundancy and the existence of maximum likelihood
+estimates in log-linear models</em>, Statistica Sinica, DOI:
+10.5705/ss.202018.0100. <a
+href="http://www3.stat.sinica.edu.tw/statistica/J31N3/J31N301/J31N301.html">link</a></li>
 </ul>
 <p><span class="math inline">\(~\)</span></p>
 <ul>
-<li><strong>Sharifi Far, S.</strong> (2017), PhD thesis, <em>Parameter Redundancy in Log-linear Models</em>.</li>
+<li><strong>Sharifi Far, S.</strong> (2017), PhD thesis, <em>Parameter
+Redundancy in Log-linear Models</em>.</li>
 </ul>
 <p><span class="math inline">\(~\)</span></p>
 <ul>
-<li>Bevrani, H., and <strong>Sharifi Far, S.</strong> (2015), <em>An Approximation to Binomial Distribution</em>, Journal of Statistical Theory and Practice, 9:2, 305–312. <a href="https://www.tandfonline.com/doi/abs/10.1080/15598608.2014.892445?journalCode=ujsp20#.VKrb-ntSK-E">link</a></li>
+<li>Bevrani, H., and <strong>Sharifi Far, S.</strong> (2015), <em>An
+Approximation to Binomial Distribution</em>, Journal of Statistical
+Theory and Practice, 9:2, 305–312. <a
+href="https://www.tandfonline.com/doi/abs/10.1080/15598608.2014.892445?journalCode=ujsp20#.VKrb-ntSK-E">link</a></li>
 </ul>
 
 

@@ -1,6 +1,11 @@
 Run:
 rmarkdown::render_site()
 
+In Git tab:
 Tick the modified pages and press commit
 
 Press Push
+
+
+personal access token: 
+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
