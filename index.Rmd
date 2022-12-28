@@ -7,7 +7,6 @@ output: html_document
 
 I am a lecturer in Mathematical Data Science at the [School of Mathematics](https://www.maths.ed.ac.uk/) and [Edinburgh Futures Institute](https://efi.ed.ac.uk/) at the University of Edinburgh. I joined the School of Mathematics as a University Teacher in Statistics in September 2017. Previously, I completed my PhD in Statistics at the University of St Andrews, working on identifiability and parameter redundancy of log-linear models fitted to sparse contingency tables.
 
-![](pic2.jpg){width=4cm}
 
 $~$
 
@@ -17,6 +16,7 @@ $~$
 - Parameter redundancy
 - Identifiability problem in statistical models
 - Multiple systems estimation
+- Applications of statistics in Social Sciences and Psychology
 - Statistics and Mathematics pedagogy
 
 $~$
@@ -28,12 +28,11 @@ $~$
 -  BSc in Statistics, University of Tabriz, 2005-09
 
 
-
 $~$
 
 ### Contact
 
-Dr. Serveh Sharifi Far 
+Dr. Serveh Sharifi Far (_she/her_)
 
 Lecturer in Mathematical Data Science
 
@@ -44,8 +43,8 @@ Address: Office 5313 - School of Mathematics -
 James Clerk Maxwell Building - 
 King's Building Campus - 
 University of Edinburgh - 
-EH9 3JZ
+EH9 3FD
+
 
 Email: serveh.sharifi@ed.ac.uk
-
 

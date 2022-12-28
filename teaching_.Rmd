@@ -9,16 +9,16 @@ $~$
 I am a Fellow of the __[ Higher Education Academy](https://www.advance-he.ac.uk/)__, committed to professionalism in learning and teaching in higher education.  ![](FHEA.png){width=4cm}
 
 
-
 $~$
 
 ### Some of the courses I have organised:
 
+
 $~$
 
-- Applied Statistics (2018-19) 
+- Statistical Methodology (2020-21) 
 
-This course discusses some of the non-parametric statistical methods and provides an introduction to data visualisation. The course was nominated by students for two teaching awards,  __Best Overall Teacher__, and __Best Course__. [Course Catalogue](http://www.drps.ed.ac.uk/18-19/dpt/cxmath10096.htm)
+This is a hybrid course covering many of the main concepts of the likelihood-based statistics. The course consists of pre-recorded lecture videos, demonstrations  on RStudio Cloud, digital quizzes and assessments, hybrid workshops, digital synchronous and asynchronous support. [Course Catalogue](http://www.drps.ed.ac.uk/20-21/dpt/cxmath10095.htm)
 
 $~$
 
@@ -29,10 +29,8 @@ This is a  first course on Statistics that provides an introduction to its basic
 
 $~$
 
-- Statistical Methodology (2020-21) 
+- Applied Statistics (2018-19) 
 
-This is a hybrid course covering many of the main concepts of the likelihood-based statistics. The course consists of pre-recorded lecture videos, demonstrations  on RStudio Cloud, digital quizzes and assessments, hybrid workshops, digital synchronous and asynchronous support. [Course Catalogue](http://www.drps.ed.ac.uk/20-21/dpt/cxmath10095.htm)
-
-
+This course discusses some of the non-parametric statistical methods and provides an introduction to data visualisation. The course was nominated by students for two teaching awards,  __Best Overall Teacher__, and __Best Course__. [Course Catalogue](http://www.drps.ed.ac.uk/18-19/dpt/cxmath10096.htm)
 
 
