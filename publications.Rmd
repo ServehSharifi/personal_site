@@ -13,7 +13,7 @@ $~$
 
 $~$
   
-- __Sharifi Far, S.__, Papathomas, M., and King, R. (2021), _Parameter redundancy and the existence of maximum likelihood estimates in log-linear models_, Statistica Sinica, DOI: [10.5705/ss.202018.0100.](http://www3.stat.sinica.edu.tw/statistica/J31N3/J31N301/J31N301.html)
+- __Sharifi Far, S.__, Papathomas, M., and King, R. (2021), _Parameter Redundancy and the Existence of Maximum Likelihood Estimates in Log-linear Models_, Statistica Sinica, DOI: [10.5705/ss.202018.0100.](http://www3.stat.sinica.edu.tw/statistica/J31N3/J31N301/J31N301.html)
 
   
 $~$
