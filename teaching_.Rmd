@@ -16,6 +16,13 @@ $~$
 
 $~$
 
+- Insights Through Data (2023-24)
+
+Insights Through Data is an MSc course at the Edinburgh Futures Institute. It provides an introduction to the practical aspects of data science via direct interaction with data through statistics, machine learning, and programming in Python. The course runs in a fusion format for on-campus and online students. [Course Catalogue](http://www.drps.ed.ac.uk/23-24/dpt/cxefie11025.htm)
+
+
+$~$
+
 - Statistical Methodology (2020-21) 
 
 This is a hybrid course covering many of the main concepts of the likelihood-based statistics. The course consists of pre-recorded lecture videos, demonstrations  on RStudio Cloud, digital quizzes and assessments, hybrid workshops, digital synchronous and asynchronous support. [Course Catalogue](http://www.drps.ed.ac.uk/20-21/dpt/cxmath10095.htm)

@@ -27,7 +27,7 @@ $~$
 
 $~$
   
-- __Sharifi Far, S.__, King, R., Bird, S., Overstall, A., Worthington, H., and Jewell, N. (2020), _Multiple Systems Estimation for Modern Slavery: Robustness of List Omission and Combination_, Crime and Delinquency, DOI: [10.1177/0011128720951429.](https://journals.sagepub.com/doi/10.1177/0011128720951429)
+- __Sharifi Far, S.__, King, R., Bird, S., Overstall, A., Worthington, H., and Jewell, N. (2020), _Multiple Systems Estimation for Modern Slavery: Robustness of List Omission and Combination_, Crime & Delinquency, DOI: [10.1177/0011128720951429.](https://journals.sagepub.com/doi/10.1177/0011128720951429)
 
 $~$
   
