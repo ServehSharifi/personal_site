@@ -1,0 +1,27 @@
+---
+title: "Events"
+output: html_document
+---
+
+
+$~$
+
+### Research event- Modern Slavery: Prediction, Prevention, Policies
+
+$~$
+
+I organised a joint research event between the CfS and the EFI aiming to promote collaboration between social scientists and statisticians who are interested in research in the area of tackling modern slavery related issues, including prediction of the hidden population size, prevention, and related policies. The keynote speaker was Sir Bernard Silverman and there were short talks showcasing the research done at the University of Edinburgh in this area. See the [event's page](https://centreforstatistics.maths.ed.ac.uk/cfs/events/past-events-and-recordings/2023-events/modern-slavery-prediction-prevention-policies) for more information.
+
+
+$~$
+
+### Student competition- ASA DataFest
+
+$~$
+
+I co-organise ASA DataFest at Edinburgh. The American Statistical Association (ASA) DataFest is an annual data analysis competition where teams of up to five undergraduate students from different schools in the university work on a large, complex, and surprise dataset over a weekend. They represent their school by finding and communicating insights into this dataset. The teams that impress the judges will win prizes as well as glory for their school. Everyone has a great experience, lots of food, and fun! This is a joint event with the Heriot-Watt University and sponsored by several statistical organisations. See our [website](https://edi-datafest.netlify.app/) for more information.
+
+
+
+
+
