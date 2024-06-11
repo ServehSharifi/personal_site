@@ -5,7 +5,7 @@ date:
 output: html_document
 ---
 
-I am a lecturer in Mathematical Data Science at the [School of Mathematics](https://www.maths.ed.ac.uk/) and [Edinburgh Futures Institute](https://efi.ed.ac.uk/) at the University of Edinburgh. I joined the School of Mathematics as a University Teacher in Statistics in September 2017. Previously, I completed my PhD in Statistics at the University of St Andrews, under the supervision of Michail Papathomas and Ruth King, working on identifiability and parameter redundancy of log-linear models fitted to sparse contingency tables.
+I am a lecturer in Mathematical Data Science at the [School of Mathematics](https://www.maths.ed.ac.uk/) and [Edinburgh Futures Institute](https://efi.ed.ac.uk/) at the University of Edinburgh since 2021. I joined the School of Mathematics as a University Teacher in Statistics in 2017. Previously, I completed my PhD in Statistics at the University of St Andrews, under the supervision of Michail Papathomas and Ruth King, working on identifiability and parameter redundancy of log-linear models fitted to sparse contingency tables.
 
 
 $~$
