@@ -49,7 +49,7 @@ $~$
 
 $~$
 
-- Discussion to "Estimation of opioid misuse prevalence in New York State counties, 2007-2018. A Bayesian spatio-temporal abundance model approach", Bradley, H., Nguyen, T., __Sharifi Far, S.__, Jordan, A. E., Kamanu, V., King, R., Li, L., Luisi, N., Mack, S., Udo, T. & Rosenberg, E. S., (2024), (Accepted/In press) In: American Journal of Epidemiology.
+- Discussion to "Estimation of opioid misuse prevalence in New York State counties, 2007-2018. A Bayesian spatio-temporal abundance model approach", Bradley, H., Nguyen, T., __Sharifi Far, S.__, Jordan, A. E., Kamanu, V., King, R., Li, L., Luisi, N., Mack, S., Udo, T. & Rosenberg, E. S., (2024), (In press) In: American Journal of Epidemiology.
 
 $~$
   
@@ -57,8 +57,7 @@ $~$
 
 $~$
        
-- __Sharifi Far, S.__ (2017), PhD thesis, _Parameter Redundancy in Log-linear Models_.      
-
+- __Serveh Sharifi Far__ (2017), PhD thesis, _Parameter Redundancy in Log-linear Models_.   
 
 
 
