@@ -5,6 +5,9 @@ date:
 output: html_document
 ---
 
+$~$
+
+### Peer-reviewed
 
 $~$
 
@@ -24,20 +27,10 @@ $~$
 - Vincent, K. S., __Sharifi Far, S.__, and Papathomas, M. (2020), _Common Methodological Challenges Encountered with Multiple Systems Estimation Studies_, Crime & Delinquency, DOI: [10.1177/0011128720981900.](https://journals.sagepub.com/doi/10.1177/0011128720981900)
 
 
-
 $~$
   
 - __Sharifi Far, S.__, King, R., Bird, S., Overstall, A., Worthington, H., and Jewell, N. (2020), _Multiple Systems Estimation for Modern Slavery: Robustness of List Omission and Combination_, Crime & Delinquency, DOI: [10.1177/0011128720951429.](https://journals.sagepub.com/doi/10.1177/0011128720951429)
 
-$~$
-  
-- Discussion to "Multiple Systems Analysis for the quantification of Modern Slavery: Classical and Bayesian approaches, Bernard W. Silverman, J. Roy. Stat. Soc. Ser A.  183, 691-736", __Sharifi Far, S.__, Papathomas, M. (2020), 731. [link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
-
-
-
-$~$
-       
-- __Sharifi Far, S.__ (2017), PhD thesis, _Parameter Redundancy in Log-linear Models_.
 
 $~$
   
@@ -45,7 +38,30 @@ $~$
 - Bevrani, H., and __Sharifi Far, S.__ (2015), _An Approximation to Binomial Distribution_, Journal of Statistical Theory and Practice, DOI: [10.1080/15598608.2014.892445.](https://www.tandfonline.com/doi/abs/10.1080/15598608.2014.892445?journalCode=ujsp20#.VKrb-ntSK-E)
 
 
+$~$
 
+### Other publications
+
+$~$
+
+
+-  __Serveh Sharifi Far__, Vanda Inácio, Ozan Evkaya, and Amanda Lenzi (2024), _American Statistical Association (ASA) DataFest 2024 at Edinburgh_, Teaching Matters Blog, The University of Edinburgh, [link](https://blogs.ed.ac.uk/teaching-matters/american-statistical-association-asa-datafest-2024-at-edinburgh/)
+
+$~$
+
+- Discussion to "Estimation of opioid misuse prevalence in New York State counties, 2007-2018. A Bayesian spatio-temporal abundance model approach", Bradley, H., Nguyen, T., __Sharifi Far, S.__, Jordan, A. E., Kamanu, V., King, R., Li, L., Luisi, N., Mack, S., Udo, T. & Rosenberg, E. S., (2024), (Accepted/In press) In: American Journal of Epidemiology.
+
+$~$
+  
+- Discussion to "Multiple Systems Analysis for the quantification of Modern Slavery: Classical and Bayesian approaches, Bernard W. Silverman, J. Roy. Stat. Soc. Ser A.  183, 691-736", __Sharifi Far, S.__, Papathomas, M. (2020), 731. [link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
+
+$~$
        
+- __Sharifi Far, S.__ (2017), PhD thesis, _Parameter Redundancy in Log-linear Models_.      
+
+
+
+
+
        
        
