@@ -10,8 +10,16 @@ I am a lecturer in Mathematical Data Science at the [School of Mathematics](http
 
 $~$
 
+#### Education Background
 
-### Research Interests
+-  PhD in Statistics, University of St Andrews, 2013-17
+-  MSc in Mathematical Statistics, University of Tabriz, 2009-11
+-  BSc in Statistics, University of Tabriz, 2005-09
+
+$~$
+
+
+#### Research Interests
 
 - Parameter redundancy
 - Identifiability problem in statistical models
@@ -21,16 +29,7 @@ $~$
 
 $~$
 
-### Education Background
-
--  PhD in Statistics, University of St Andrews, 2013-17
--  MSc in Mathematical Statistics, University of Tabriz, 2009-11
--  BSc in Statistics, University of Tabriz, 2005-09
-
-
-$~$
-
-### Contact
+#### Contact
 
 Dr. Serveh Sharifi Far (_she/her_)
 
