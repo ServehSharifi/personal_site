@@ -7,6 +7,9 @@ output: html_document
 
 $~$
 
+- __S. Sharifi Far__, V. Inácio, O. Evkaya, and A. Lenzi (2025), _Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest_, Teaching Statistics, 1–9, DOI: [10.1111/test.12404](http://doi.org/10.1111/test.12404)
+
+
 
 - Heather Bradley, Trang Nguyen, __Serveh Sharifi Far__, Ashly E Jordan, Vivian Kamanu, Ruth King, Lanxin Li, Nicole Luisi, Stephanie Mack, Tomoko Udo, Eli S Rosenberg (2025), _Re: Estimation of opioid misuse prevalence in New York State counties, 2007-2018. A Bayesian spatio-temporal abundance model approach_, American Journal of Epidemiology, DOI: [10.1093/aje/kwae407](https://doi.org/10.1093/aje/kwae407)
 
