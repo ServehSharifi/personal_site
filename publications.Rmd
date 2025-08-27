@@ -13,10 +13,6 @@ $~$
 
 - Heather Bradley, Trang Nguyen, __Serveh Sharifi Far__, Ashly E Jordan, Vivian Kamanu, Ruth King, Lanxin Li, Nicole Luisi, Stephanie Mack, Tomoko Udo, Eli S Rosenberg (2025), _Re: Estimation of opioid misuse prevalence in New York State counties, 2007-2018. A Bayesian spatio-temporal abundance model approach_, American Journal of Epidemiology, DOI: [10.1093/aje/kwae407](https://doi.org/10.1093/aje/kwae407)
 
-  
-
-- __Serveh Sharifi Far__, Vanda Inácio, Ozan Evkaya, and Amanda Lenzi (2024), _American Statistical Association (ASA) DataFest 2024 at Edinburgh_, Teaching Matters Blog, The University of Edinburgh, [link](https://blogs.ed.ac.uk/teaching-matters/american-statistical-association-asa-datafest-2024-at-edinburgh/)      
-
 
 
 - __Serveh Sharifi Far__, Vanda Inácio, Daniel Paulin, Miguel de Carvalho, Nicole Augustin, Mike Allerhand & Gail Robertson  (2023), _Consultancy Style Dissertations in Statistics and Data Science: Why and How_, The American Statistician, DOI: [10.1080/00031305.2022.2163689.](https://www.tandfonline.com/doi/full/10.1080/00031305.2022.2163689)
@@ -49,5 +45,3 @@ $~$
   
 - Bevrani, H., and __Sharifi Far, S.__ (2015), _An Approximation to Binomial Distribution_, Journal of Statistical Theory and Practice, DOI: [10.1080/15598608.2014.892445.](https://www.tandfonline.com/doi/abs/10.1080/15598608.2014.892445?journalCode=ujsp20#.VKrb-ntSK-E)
 
-
-       

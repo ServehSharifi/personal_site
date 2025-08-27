@@ -6,7 +6,7 @@ output: html_document
 
 $~$
 
-### Research event- Modern Slavery: Prediction, Prevention, Policies
+### Research event - Modern Slavery: Prediction, Prevention, Policies
 
 $~$
 
@@ -15,11 +15,11 @@ I organised a joint research event between the CfS and the EFI aiming to promote
 
 $~$
 
-### Student competition- ASA DataFest
+### Student competition - ASA DataFest
 
 $~$
 
-I co-organise ASA DataFest at Edinburgh. The American Statistical Association (ASA) DataFest is an annual data analysis competition where teams of up to five undergraduate students from different schools in the university work on a large, complex, and surprise dataset over a weekend. They represent their school by finding and communicating insights into this dataset. The teams that impress the judges will win prizes as well as glory for their school. Everyone has a great experience, lots of food, and fun! This is a joint event with the Heriot-Watt University and sponsored by several statistical organisations. See our [website](https://edi-datafest.netlify.app/) for more information.
+I co-organise ASA DataFest at Edinburgh. The American Statistical Association (ASA) DataFest is an annual data analysis competition where teams of up to five undergraduate students from different schools in the university work on a large, complex, and surprise dataset over a weekend. They represent their school by finding and communicating insights into this dataset. The teams that impress the judges will win prizes as well as glory for their school. Everyone has a great experience, lots of food, and fun! This is a joint event with the Heriot-Watt University and sponsored by several statistical organisations. See our [website](https://oevkaya.github.io/datafest_UoE_25/) for more information.
 
 
 
