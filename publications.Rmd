@@ -7,6 +7,9 @@ output: html_document
 
 $~$
 
+- Stuart King,  __Serveh Sharifi Far__ (2025), _Teaching Data Science to Diverse Learners: A Hybrid and Interdisciplinary Approach_, Teaching Statistics, 1–10, DOI: [10.1111/test.70014](https://doi.org/10.1111/test.70014)
+
+
 - __S. Sharifi Far__, V. Inácio, O. Evkaya, and A. Lenzi (2025), _Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest_, Teaching Statistics, 1–9, DOI: [10.1111/test.12404](http://doi.org/10.1111/test.12404)
 
 

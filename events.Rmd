@@ -19,7 +19,7 @@ $~$
 
 $~$
 
-I co-organise ASA DataFest at Edinburgh. The American Statistical Association (ASA) DataFest is an annual data analysis competition where teams of up to five undergraduate students from different schools in the university work on a large, complex, and surprise dataset over a weekend. They represent their school by finding and communicating insights into this dataset. The teams that impress the judges will win prizes as well as glory for their school. Everyone has a great experience, lots of food, and fun! This is a joint event with the Heriot-Watt University and sponsored by several statistical organisations. See our [website](https://oevkaya.github.io/datafest_UoE_25/) for more information.
+I co-organise ASA DataFest at Edinburgh. The American Statistical Association (ASA) DataFest is an annual data analysis competition where teams of up to five undergraduate students from different schools in the university work on a large, complex, and surprise dataset over a weekend. They represent their school by finding and communicating insights into this dataset. The teams that impress the judges will win prizes as well as glory for their school. Everyone has a great experience, lots of food, and fun! This event is sponsored by different statistical organisations every year. See our [website](https://oevkaya.github.io/datafest_UoE_25/) for more information.
 
 
 
