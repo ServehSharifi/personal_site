@@ -19,11 +19,11 @@ Education Background:
 
 Research Interests:
 
-- Parameter redundancy
-- Identifiability problem in statistical models
-- Multiple systems estimation
+- Parameter redundancy and identifiability problems in statistical models
+- Multiple systems estimation for population size estimation in social sciences and epidemiology
 - Applications of statistics in social sciences and psychology
 - Statistics and data science pedagogy
+
 
 $~$
 
