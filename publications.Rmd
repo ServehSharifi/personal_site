@@ -7,6 +7,12 @@ output: html_document
 
 $~$
 
+- Heather Bradley, Trang M Nguyen, Lanxin Li, Ruth King, Vivian Kamanu, __Serveh Sharifi Far__, Stephanie Mack, Nicole Luisi, Yunshu Li, Yali Meng, Gang Liu, Jiaji Zhang, Ashly E Jordan, Linh Le, Peter L Brodie, Svetlana Jensen, Allan Clear, Tomoko Udo, Vanda Inacio, Eli S Rosenberg (2026), _A comparative analysis of methodological practices used in capture-recapture population size estimation: Opioid use disorder prevalence in New York State, 2020_, American Journal of Epidemiology, DOI: [10.1093/aje/kwag161](https://doi.org/10.1093/aje/kwag161)
+
+- Blankinship, B., Orzechowski, P., Desvages, C., Banas, K., Noè, U., Oldnall, C.A., __Sharifi Far, S.__, Llewellyn-MacRae, C., Alex, B., Evkaya, O., and McManus, F. (2026), _Teaching Programming Across Disciplines_, Edinburgh: University of Edinburgh, DOI: [10.2218/ED.9781836450795](https://doi.org/10.2218/ED.9781836450795)
+
+- __Serveh Sharifi Far__, Ruini Qu, Stuart King (2026), _A Practical Guide to Teaching Python as a Computational Tool in an Introductory Data Analysis Course_, in the book: Teaching Programming Across Disciplines, Edinburgh: University of Edinburgh, DOI: [10.2218/ED.9781836450795.23](https://doi.org/10.2218/ED.9781836450795.23)
+
 - Stuart King,  __Serveh Sharifi Far__ (2025), _Teaching Data Science to Diverse Learners: A Hybrid and Interdisciplinary Approach_, Teaching Statistics, 1–10, DOI: [10.1111/test.70014](https://doi.org/10.1111/test.70014)
 
 

@@ -9,7 +9,7 @@ I am a lecturer in Mathematical Data Science at the [School of Mathematics](http
 
 
 
-#### Education Background
+Education Background:
 
 -  PhD in Statistics, University of St Andrews
 -  MSc in Mathematical Statistics, University of Tabriz
@@ -17,24 +17,19 @@ I am a lecturer in Mathematical Data Science at the [School of Mathematics](http
 
 
 
-
-#### Research Interests
+Research Interests:
 
 - Parameter redundancy
 - Identifiability problem in statistical models
 - Multiple systems estimation
-- Applications of Statistics in Social Sciences and Psychology
-- Statistics and Data Science pedagogy
+- Applications of statistics in social sciences and psychology
+- Statistics and data science pedagogy
 
 $~$
 
-#### Contact
+Contact:
 
-Dr. Serveh Sharifi Far (_she/her_)
-
-Lecturer in Mathematical Data Science
-
-University of Edinburgh
+Dr. Serveh Sharifi Far (_she/her_), Lecturer in Mathematical Data Science, University of Edinburgh
 
 
 Address: Office 5313- School of Mathematics- 
