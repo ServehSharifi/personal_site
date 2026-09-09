@@ -9,9 +9,14 @@ $~$
 
 - Heather Bradley, Trang M Nguyen, Lanxin Li, Ruth King, Vivian Kamanu, __Serveh Sharifi Far__, Stephanie Mack, Nicole Luisi, Yunshu Li, Yali Meng, Gang Liu, Jiaji Zhang, Ashly E Jordan, Linh Le, Peter L Brodie, Svetlana Jensen, Allan Clear, Tomoko Udo, Vanda Inacio, Eli S Rosenberg (2026), _A comparative analysis of methodological practices used in capture-recapture population size estimation: Opioid use disorder prevalence in New York State, 2020_, American Journal of Epidemiology, DOI: [10.1093/aje/kwag161](https://doi.org/10.1093/aje/kwag161)
 
-- Blankinship, B., Orzechowski, P., Desvages, C., Banas, K., Noè, U., Oldnall, C.A., __Sharifi Far, S.__, Llewellyn-MacRae, C., Alex, B., Evkaya, O., and McManus, F. (2026), _Teaching Programming Across Disciplines_, Edinburgh: University of Edinburgh, DOI: [10.2218/ED.9781836450795](https://doi.org/10.2218/ED.9781836450795)
+
+- Megan Mocko, __Serveh Sharifi Far__, and Mine Cetinkaya-Rundel (2026), _Virtual Exchange in Teaching Statistics and Data Science: A Study of Two Experiences between Scotland and the United States_, Journal of Statistics and Data Science Education, DOI: [10.1080/26939169.2026.2729150](https://doi.org/10.1080/26939169.2026.2729150)
+
 
 - __Serveh Sharifi Far__, Ruini Qu, Stuart King (2026), _A Practical Guide to Teaching Python as a Computational Tool in an Introductory Data Analysis Course_, in the book: Teaching Programming Across Disciplines, Edinburgh: University of Edinburgh, DOI: [10.2218/ED.9781836450795.23](https://doi.org/10.2218/ED.9781836450795.23)
+
+- Blankinship, B., Orzechowski, P., Desvages, C., Banas, K., Noè, U., Oldnall, C.A., __Sharifi Far, S.__, Llewellyn-MacRae, C., Alex, B., Evkaya, O., and McManus, F. (2026), _Teaching Programming Across Disciplines_, Edinburgh: University of Edinburgh, DOI: [10.2218/ED.9781836450795](https://doi.org/10.2218/ED.9781836450795)
+
 
 - Stuart King,  __Serveh Sharifi Far__ (2025), _Teaching Data Science to Diverse Learners: A Hybrid and Interdisciplinary Approach_, Teaching Statistics, 1–10, DOI: [10.1111/test.70014](https://doi.org/10.1111/test.70014)
 
@@ -43,14 +48,10 @@ $~$
 - Vincent, K. S., __Sharifi Far, S.__, and Papathomas, M. (2020), _Common Methodological Challenges Encountered with Multiple Systems Estimation Studies_, Crime & Delinquency, DOI: [10.1177/0011128720981900.](https://journals.sagepub.com/doi/10.1177/0011128720981900)
 
 
-
 - Discussion to "Multiple Systems Analysis for the quantification of Modern Slavery: Classical and Bayesian approaches, Bernard W. Silverman, J. Roy. Stat. Soc. Ser A.  183, 691-736", __Sharifi Far, S.__, Papathomas, M. (2020), 731. [link](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12505)
 
 
-
 - __Serveh Sharifi Far__ (2017), PhD thesis, _Parameter Redundancy in Log-linear Models_.   
-
-
   
 - Bevrani, H., and __Sharifi Far, S.__ (2015), _An Approximation to Binomial Distribution_, Journal of Statistical Theory and Practice, DOI: [10.1080/15598608.2014.892445.](https://www.tandfonline.com/doi/abs/10.1080/15598608.2014.892445?journalCode=ujsp20#.VKrb-ntSK-E)
 
