@@ -18,11 +18,10 @@ $~$
 - Blankinship, B., Orzechowski, P., Desvages, C., Banas, K., Noè, U., Oldnall, C.A., __Sharifi Far, S.__, Llewellyn-MacRae, C., Alex, B., Evkaya, O., and McManus, F. (2026), _Teaching Programming Across Disciplines_, Edinburgh: University of Edinburgh, DOI: [10.2218/ED.9781836450795](https://doi.org/10.2218/ED.9781836450795)
 
 
-- Stuart King,  __Serveh Sharifi Far__ (2025), _Teaching Data Science to Diverse Learners: A Hybrid and Interdisciplinary Approach_, Teaching Statistics, 1–10, DOI: [10.1111/test.70014](https://doi.org/10.1111/test.70014)
+- Stuart King,  __Serveh Sharifi Far__ (2025), _Teaching Data Science to Diverse Learners: A Hybrid and Interdisciplinary Approach_, Teaching Statistics, DOI: [10.1111/test.70014](https://doi.org/10.1111/test.70014)
 
 
-- __S. Sharifi Far__, V. Inácio, O. Evkaya, and A. Lenzi (2025), _Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest_, Teaching Statistics, 1–9, DOI: [10.1111/test.12404](http://doi.org/10.1111/test.12404)
-
+- __S. Sharifi Far__, V. Inácio, O. Evkaya, and A. Lenzi (2025), _Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest_, Teaching Statistics, DOI: [10.1111/test.12404](http://doi.org/10.1111/test.12404)
 
 
 - Heather Bradley, Trang Nguyen, __Serveh Sharifi Far__, Ashly E Jordan, Vivian Kamanu, Ruth King, Lanxin Li, Nicole Luisi, Stephanie Mack, Tomoko Udo, Eli S Rosenberg (2025), _Re: Estimation of opioid misuse prevalence in New York State counties, 2007-2018. A Bayesian spatio-temporal abundance model approach_, American Journal of Epidemiology, DOI: [10.1093/aje/kwae407](https://doi.org/10.1093/aje/kwae407)

@@ -1,0 +1,11 @@
+TeSt papers- edit page numbers
+
+Assist DoT in developing strategy for the UG and PGT curriculum in the school and ensuring their delivery quality in collaboration with colleagues focusing on different programme and themes. 
+
+
+{\textit{Representing Data}, 2021-22 and 2022-23;  Optional on data visualisation for students from different backgrounds at the Edinburgh Futures Institute.}
+{\textbf{SMSTC}, 2018--19 and 2017--18;  Video conferencing course for PhD students; Covering generalised linear models and simulation.}
+{\textbf{Mathematics for Natural Sciences}, 2018-19 and 2017--18; Year 1 Chemistry students; Covering introductory probability and statistical concepts.}}
+{{\textbf{Statistical Programming}, 2018--19 and 2017-18; MSc students in Statistics; Covering programming statistical methods in R.}}
+{{\textbf{Statistical Research Skills}, 2017--18; MSc students in Statistics; Covering writing and presenting statistical works and simulation studies. }}
+{{\textbf{Theory of Statistical Inferences}, 2017--18; Year 4 and MSc students; Covering advanced theory of statistical inferences.}}
